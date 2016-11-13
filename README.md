@@ -1,2 +1,2 @@
 # mpi4py-winograd
-Parallel implementation
+Parallel implementation of matrix multiplication
